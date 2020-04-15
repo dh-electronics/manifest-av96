@@ -17,6 +17,6 @@
   <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="09bc7b8639a227f4bcba3223de144520e4c31d09"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="d3d3f443039b03f1200a14bfe99f985592632018"/>
   <project name="meta-security" path="layers/meta-security" remote="yocto" revision="51a4c6b5179d087f647cf0c458edb8ab107826ef"/>
-  <project name="bkardosa/meta-av96" path="layers/meta-arrow/meta-av96" remote="github" revision="thud-devel"/>
-  <project name="bkardosa/meta-av96-scripts" path="layers/meta-arrow/scripts" remote="github" revision="thud"/>
+  <project name="dh-electronics/meta-av96" path="layers/meta-arrow/meta-av96" remote="github" revision="refs/tags/av96_v43"/>
+  <project name="dh-electronics/meta-av96-scripts" path="layers/meta-arrow/scripts" remote="github" revision="thud"/>
 </manifest>
