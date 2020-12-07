@@ -18,6 +18,6 @@
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="b39bda4cc62db12c0edfbe489d5a7f5988ede6a9"/>
 
   <project name="meta-security" path="layers/meta-security" remote="yocto" revision="dunfell"/>
-  <project name="dh-electronics/meta-av96" path="layers/meta-arrow/meta-av96" remote="github" revision="refs/tags/av96_v63"/>
+  <project name="dh-electronics/meta-av96" path="layers/meta-arrow/meta-av96" remote="github" revision="refs/tags/av96_v64"/>
   <project name="dh-electronics/meta-av96-scripts" path="layers/meta-arrow/scripts" remote="github" revision="dunfell"/>
 </manifest>
