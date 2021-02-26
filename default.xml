@@ -17,9 +17,9 @@
   <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="c0c951cfe7e95eed7654011bb2ab8178107151ca"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="b39bda4cc62db12c0edfbe489d5a7f5988ede6a9"/>
 
-  <project name="meta-virtualization" path="layers/meta-virtualization" remote="yocto" revision="dunfell"/>
+  <project name="meta-virtualization" path="layers/meta-virtualization" remote="yocto" revision="92cd3467502bd27b98a76862ca6525ce425a8479"/>
 
   <project name="meta-security" path="layers/meta-security" remote="yocto" revision="dunfell"/>
-  <project name="dh-electronics/meta-av96" path="layers/meta-arrow/meta-av96" remote="github" revision="refs/tags/av96_v67"/>
+  <project name="dh-electronics/meta-av96" path="layers/meta-arrow/meta-av96" remote="github" revision="refs/tags/av96_v68"/>
   <project name="dh-electronics/meta-av96-scripts" path="layers/meta-arrow/scripts" remote="github" revision="dunfell"/>
 </manifest>
