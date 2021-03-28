@@ -20,6 +20,6 @@
   <project name="meta-virtualization" path="layers/meta-virtualization" remote="yocto" revision="92cd3467502bd27b98a76862ca6525ce425a8479"/>
 
   <project name="meta-security" path="layers/meta-security" remote="yocto" revision="dunfell"/>
-  <project name="dh-electronics/meta-av96" path="layers/meta-arrow/meta-av96" remote="github" revision="refs/tags/av96_v68"/>
+  <project name="dh-electronics/meta-av96" path="layers/meta-arrow/meta-av96" remote="github" revision="refs/tags/av96_v69"/>
   <project name="dh-electronics/meta-av96-scripts" path="layers/meta-arrow/scripts" remote="github" revision="dunfell"/>
 </manifest>
