@@ -1,4 +1,4 @@
-### !!! This project is not longer maintainanced !!! 
+### !!! This project is not longer maintained !!! 
 ### Please use our mainline linux based project https://github.com/dh-electronics/dhcom_stm32mp1-bsp-platform 
 ### Creating a uSD card image for the Avenger96 board
   
@@ -10,7 +10,7 @@ Building the BSP for the Avenger96 follows the scheme of the above build process
         https://wiki.st.com/stm32mpu/wiki/Example_of_directory_structure_for_Packages
 - enter the working directory and execute the following commands
 ```
-$ repo init -u https://github.com/dh-electronics/manifest-av96 -b dunfell
+$ repo init -u https://github.com/bkardosa/manifest-av96 -b dunfell-dev
 $ repo sync
 $ source layers/meta-arrow/scripts/init-build-env.sh
 $ bitbake av96-weston`
