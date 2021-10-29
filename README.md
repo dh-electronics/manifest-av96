@@ -1,4 +1,4 @@
-### !!! This project is not longer maintainanced !!! 
+### !!! This project is not longer maintained !!! 
 ### Please use our mainline linux based project https://github.com/dh-electronics/dhcom_stm32mp1-bsp-platform 
 ### Creating a uSD card image for the Avenger96 board
   
